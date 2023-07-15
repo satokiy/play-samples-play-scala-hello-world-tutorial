@@ -6,3 +6,5 @@ tmp
 dist
 .cache
 RUNNING_PID
+.idea
+sbt-dist
